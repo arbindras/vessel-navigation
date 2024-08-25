@@ -1,0 +1,9 @@
+html, body, #root, .leaflet-container {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.rotated-icon-wrapper {
+  transform: rotate(45deg);
+  /* display: inline-block; */
+}
